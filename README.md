@@ -1,9 +1,9 @@
 # 🍃 KebunKas - Pengurus Kewangan Pintar
 
-**KebunKas** adalah aplikasi pengurusan kewangan peribadi yang direka untuk memudahkan anda memantau aliran tunai (pemasukan & pengeluaran) dengan antaramuka yang segar dan mesra pengguna.
+**KebunKas** adalah aplikasi pengurusan keuangan peribadi yang direka untuk memudahkan anda memantau aliran tunai (pemasukan & pengeluaran) dengan antaramuka yang segar dan mempermudah penggunaan.
 
 ## ✨ Ciri-Ciri Utama
-* **📈 Analisis Visual**: Pantau trend kewangan anda melalui grafik garis (Line Chart) yang interaktif.
+* **📈 Analisis Visual**: Pantau trend keuangan anda melalui grafik garis (Line Chart) yang interaktif.
 * **📄 Laporan PDF**: Jana laporan kewangan bulanan dalam format PDF yang kemas dan sedia untuk dicetak.
 * **📊 Eksport Excel**: Simpan data transaksi anda ke dalam format `.xlsx` untuk tujuan sandaran atau analisis lanjut.
 * **💾 Simpanan Lokal**: Menggunakan database SQLite, data anda tersimpan dengan selamat di dalam peranti tanpa memerlukan akaun.
