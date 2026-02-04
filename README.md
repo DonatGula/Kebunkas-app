@@ -55,3 +55,4 @@ Proyek ini dilisensikan di bawah **MIT License**. Lihat berkas [LICENSE](LICENSE
 
 ---
 **KebunKas** - *Kelola uangmu seperti merawat kebun.* 🌿
+🚀 **Natgul - 2026** 
