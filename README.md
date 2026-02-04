@@ -58,7 +58,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini secara lokal:
 
 ## 📄 Lisensi
 
-Proyek ini dilisensikan di bawah **MIT License**. Lihat berkas [LICENSE](LICENSE) untuk informasi lebih lanjut.
+Proyek ini 100% free untuk pribadi/belajar, di larang keras untuk di jual belikan. Lihat berkas [LICENSE](LICENSE) untuk informasi lebih lanjut.
 
 ---
 **KebunKas** - *Kelola uangmu seperti merawat kebun.* 🌿
