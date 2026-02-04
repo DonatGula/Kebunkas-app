@@ -8,8 +8,8 @@
 
 ---
 
-| <img src="ss/4.png" width="250"> | <img src="ss/1.png" width="250"> | <img src="ss/2.png" width="250">
-| <img src="ss/3.png" width="250"> | <img src="ss/4.png" width="250"> | <img src="ss/5.png" width="250">
+| <img src="assets/ss/4.png" width="250"> | <img src="assets/ss/1.png" width="250"> | <img src="assets/ss/2.png" width="250">
+| <img src="assets/ss/3.png" width="250"> | <img src="assets/ss/4.png" width="250"> | <img src="assets/ss/5.png" width="250">
 
 ## ✨ Fitur Utama
 
