@@ -1,0 +1,43 @@
+name: appjeruk
+description:
+
+publish_to:
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.3.0
+  path_provider: ^2.1.2
+  intl: ^0.19.0
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.2.2
+  pdf: ^3.10.7
+  printing: ^5.11.0
+  excel: ^4.0.2
+  fl_chart: ^0.66.0
+  share_plus: ^10.1.0
+  file_picker: ^10.3.10
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/logo.png" # Pastikan nama file sesuai
+  adaptive_icon_background: "#F1F8E9" # Warna background logo paman
+  adaptive_icon_foreground: "assets/images/logo.png"
