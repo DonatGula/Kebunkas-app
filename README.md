@@ -1,16 +1,24 @@
-# appjeruk
+# 🍃 KebunKas - Pengurus Kewangan Pintar
 
-A new Flutter project.
+**KebunKas** adalah aplikasi pengurusan kewangan peribadi yang direka untuk memudahkan anda memantau aliran tunai (pemasukan & pengeluaran) dengan antaramuka yang segar dan mesra pengguna.
 
-## Getting Started
+## ✨ Ciri-Ciri Utama
+* **📈 Analisis Visual**: Pantau trend kewangan anda melalui grafik garis (Line Chart) yang interaktif.
+* **📄 Laporan PDF**: Jana laporan kewangan bulanan dalam format PDF yang kemas dan sedia untuk dicetak.
+* **📊 Eksport Excel**: Simpan data transaksi anda ke dalam format `.xlsx` untuk tujuan sandaran atau analisis lanjut.
+* **💾 Simpanan Lokal**: Menggunakan database SQLite, data anda tersimpan dengan selamat di dalam peranti tanpa memerlukan akaun.
+* **🌓 Mod Gelap & Terang**: Antaramuka yang selesa dipandang pada bila-bila masa.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Dibina Dengan
+* **Flutter** - Framework UI merentas platform.
+* **SQLite (sqflite)** - Database lokal.
+* **fl_chart** - Untuk paparan grafik kewangan.
+* **Provider** - Pengurusan state dan tema aplikasi.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Cara Pemasangan
+1. Pastikan anda mempunyai [Flutter SDK](https://docs.flutter.dev/get-started/install) dipasang.
+2. Clone repository ini:
+   ```bash
+   git clone [https://github.com/DonatGula/Kebunkas-app.git](https://github.com/DonatGula/Kebunkas-app.git)
+3. maaf anda harus ganti nama folder appjeruk.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
